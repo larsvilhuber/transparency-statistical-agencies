@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Reproducibility and transparency in academia, and implications for statistical agencies
+message: >-
+  Presented to ERS November 20, 2024.
+type: presentation
+authors:
+  - given-names: Lars
+    family-names: Vilhuber
+    email: lars.vilhuber@cornell.edu
+    affiliation: Cornell University
+    orcid: 'https://orcid.org/0000-0001-5733-8932'
+repository-code: >-
+  https://github.com/larsvilhuber/transparency-statistical-agencies/
+abstract: >-
+  I explore practical approaches to issues of transparency and reproducibility in statistical work by academic and governmental groups. Based on the experience from reviewing and approving 1,700 replication packages for publication in economics journals, the lessons learned are mapped into a more general statistical publication process, with special reference to non-public data.
+license: CC-BY-NC-4.0
+date-released: '2024-11-17'
