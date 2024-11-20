@@ -45,4 +45,4 @@ else
 fi
 
 
-docker run -e DISABLE_AUTH=true -v "$WORKSPACE":/home/rstudio --rm -p 8787:8787 $space/$repo:$tag
+docker run -e DISABLE_AUTH=true -v "$WORKSPACE":/home/rstudio --rm -p 8787:8787 -p 5872:5872 $space/$repo:$tag

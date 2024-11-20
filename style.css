@@ -41,3 +41,16 @@
   background-color: lemonchiffon;
   font-weight: bolder;
 }
+
+.reveal em {
+  color: black;
+  background-color: rgb(205, 226, 255);
+  font-weight: bolder;
+}
+
+/* for this presentation only */
+
+.reveal #title-slide .title {
+  font-size: 1.3em;
+  top: 100px;
+}

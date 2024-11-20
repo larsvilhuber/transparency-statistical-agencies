@@ -9,6 +9,8 @@ format:
     transition: slide
     theme: [night, style.css]
     self_contained: false
+    logo: logo.png
+    footer: ""
     reveal_options:
         slideNumber: true
         previewLinks: false
@@ -16,4 +18,5 @@ format:
           theme: chalkboard
           toggleNotesButton: true
     reveal_plugins: ["chalkboard"]
+
 
