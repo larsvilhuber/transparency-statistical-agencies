@@ -8,3 +8,5 @@ renv
 
 /.quarto/
 .sh_history
+index.html
+paper.bib
