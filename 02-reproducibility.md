@@ -58,6 +58,10 @@ permit replication
 ![](images/aea-repo-example.png)
 
 
+## Historically
+
+![AER 2011 thanks to Stefano Dellavigna](images/aer-2011.jpeg)
+
 ## Side note: Government
 
 - Data are often confidential
@@ -127,8 +131,132 @@ years)
 - Your **future readers** who will cite you (in 4-10 years, who may want to extend or replicate
 your study, but won’t if it is too complex)
 
+# Tracing inputs from outputs
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-52.png" background-size="contain"}
+
+[^cholera1]
+
+[^cholera1]: Ambrus, Attila, Erica Field, and Robert Gonzalez. 2020. "Loss in the Time of Cholera: Long-Run Impact of a Disease Epidemic on the Urban Landscape." American Economic Review, 110 (2): 475–525. <https://doi.org/10.1257/aer.20190759>
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-53.png" background-size="contain"}
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-54.png" background-size="contain"}
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-55.png" background-size="contain"}
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-56.png" background-size="contain"}
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-57.png" background-size="contain"}
+
+[^cholera2]
+
+[^cholera2]: Ambrus, Attila, Field, Erica, and Gonzalez, Robert. Data and Code for: Loss in the Time of Cholera: Long-run Impact of a Disease Epidemic on the Urban Landscape. Nashville, TN: American Economic Association [publisher], 2020. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2020-01-31. <https://doi.org/10.3886/E111523V2>
+
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-58.png" background-size="contain"}
+
+
 # Reproducibility in Economics and beyond
 
-Data Editors
+## Data Editors {background-image="images/socsci-webpage.png" background-size="contain"}
 
-- 
+## Data Editors {.smaller}
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+- [American Economic Association](https://www.aeaweb.org/journals/) (8)
+- [Econometric Society](https://www.econometricsociety.org/) (3)
+- [Canadian Journal of Economics](https://www.economics.ca/cje-home) (1)
+- [Royal Economic Society](https://res.org.uk/journals/) (2)
+- [Western Economic Association International](https://weai.org/view/EI-Journal-Policies) (1)
+- [European Economic Association](http://www.eeassoc.org/journal) (1)
+- [Review of Economic Studies](https://www.restud.com/) (1)
+
+:::
+
+:::{.column width="50%"}
+
+![](images/socsci-dcas-endorsement.png)
+
+:::
+
+::::
+
+## Common policies {.smaller}
+
+<https://social-science-data-editors.github.io/>
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+![](images/socsci-dcas.png)
+
+:::
+
+:::{.column width="50%"}
+
+![](images/socsci-readme.png)
+
+:::
+
+::::
+
+## Elsewhere: Political Science {.smaller}
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+![APSR](images/apsr-webpage.png)
+
+:::
+
+:::{.column width="50%"}
+
+![AJPS](images/ajps-verification.png)
+
+:::
+
+::::
+
+## Elsewhere: Sociology {.smaller}
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+![Sociological Science](images/socscience-webpage.png)
+
+:::
+
+:::{.column width="50%"}
+
+
+:::
+
+::::
+
+## But!
+
+## Elsewhere: Sociology {.smaller}
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+![Sociological Science](images/socscience-webpage.png)
+
+:::
+
+:::{.column width="50%"}
+
+![Weeden (2023)](images/hdsr-weeden.png) [^hdsr1]
+
+[^hdsr1]:  Weeden, K. A. (2023). Crisis? What Crisis? Sociology’s Slow Progress Toward Scientific Transparency  . Harvard Data Science Review, 5(4). <https://doi.org/10.1162/99608f92.151c41e3>
+
+:::
+
+::::

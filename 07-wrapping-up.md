@@ -1,26 +1,34 @@
 # Wrapping it all up
 
-## Wrapping up
+## What is the state of reproducibility and transparency in academic economics?
 
-- Public replication package contains intelligible code, omits confidential details (but provides template code), has detailed data provenance statements
-- Confidential replication package contains all the same, plus the confidential code, is archived in the FSRDC
+- An increasing number of journals are not just **requiring** complete data, code, and transparent description, but also **verifying** that the code and data are correct.
+- At the AEA: since 2019, reviewed around **1700** articles, ran code for about **2/3** of them.
 
-## Things to remember
+## What are the benefits of reproducibility and transparency?
 
-- Use code to save figures and tables (`estout`, `graph export`, `regsave`)
-- Create log files for each run (`stata -b do file.do` not fine-grained enough) [link](https://github.com/AEADataEditor/replication-template/blob/master/template-config.do#L88)
+- Greater **trust** in the results
+- Greater **ease** of building on results
+- Greater **transparency** of the process, but also of the **provenance**
 
-## Things to remember
+## Increasing broad consensus in academia
 
-Run it all again, top to bottom!
+- FAIR principles
+- Data Citation Principles
+- Computational Reproducibility 
 
-## Things to remember
+## What are the implications for statistical agencies?
 
-- When doing a disclosure review request, remember to request the **code**
-- When outputting statistics, *consider the disclosure rules* - the less changes, the faster the output (in theory), but in particular fewer surprises
-- Do not think "*nobody will ever read this code*" - somebody is very likely to!
+## Producers of statistical products
 
+- May want to provide greater transparency into the **production process**.
+- May need to do more for **long-term, unbiased preservation** of input data, output products, and code/software to link the two.
+- May want to start with the low-hanging fruit: dashboards and fully public processes.
 
-# End
+## Coherence with stated principles
 
-Now you wait for the replicators to show up!
+The emerging consensus is fully in line with the decades-strong principles of statistical agencies:
+
+## Greater trust by the public?
+
+- **Transparency** should be correlated with greater trust in the work of the statistical agencies

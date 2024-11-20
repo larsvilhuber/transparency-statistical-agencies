@@ -21,15 +21,23 @@ title-slide-attributes:
 ```
 
 
-```{r, child=c(here::here('xx-trust.md'))}
+```{r, child=c(here::here('03-trust.md'))}
 ```
 
-```{r, child=c(here::here('03-reproducibility-confidential-background.md'))}
+```{r, child=c(here::here('04-example-ers.md'))}
 ```
 
 
 ```{r, child=c(here::here('07-wrapping-up.md'))} 
 ```
+
+
+# Thank you {background-image="images/lake-autumn.jpg" background-size="contain" background-position="bottom"}
+
+
+```{r, child=c(here::here('08-one-more-thing.md'))} 
+```
+
 
 # Appendix
 
@@ -37,5 +45,11 @@ title-slide-attributes:
 
 
 ```{r, child=c(here::here('91-secrets-in-code.md'))}
+```
+
+```{r, child=c(here::here('92-provenance.md'))}
+```
+
+```{r, child=c(here::here('93-remember.md'))}
 ```
 
