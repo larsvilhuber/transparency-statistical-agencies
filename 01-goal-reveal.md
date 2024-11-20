@@ -6,5 +6,12 @@
 
 ## Increasing broad consensus in academia
 
+- FAIR principles
+- Data Citation Principles
+- Computational Reproducibility 
 
 ## What are the implications for statistical agencies?
+
+- Producers of statistical products
+- Coherence with stated principles
+- Greater trust in the data produced
