@@ -53,14 +53,14 @@ permit replication
   - Websites, Github, are *not acceptable*
 
 
-## Example of deposit
-
-![](images/aea-repo-example.png)
-
-
 ## Historically
 
 ![AER 2011 thanks to Stefano Dellavigna](images/aer-2011.jpeg)
+
+## Modern preservation
+
+![](images/aea-repo-example.png)
+
 
 ## Side note: Government
 
@@ -122,6 +122,27 @@ through **reproducibility**
 
 ![Student replicators](images/students-computer.jpeg)
 
+## Who is the target person? {.smaller}
+
+::::{.columns}
+
+:::{.column width="50%"}
+
+Over the past 6 years, over **170** *undergraduate* students have been involved in verifying these articles.
+
+- Economics, biostatistics, sociology
+- Typically recruited in sophomore or junior year, but will consider freshmen through master's students
+
+:::
+
+:::{.column width="50%"}
+
+![](images/ilr-student-employment.png)
+
+:::
+
+::::
+
 ## Who is the target person?
 
 - **You** (in 4 years, between prepping 2 new courses,
@@ -133,32 +154,32 @@ your study, but won’t if it is too complex)
 
 # Tracing inputs from outputs
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-52.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-52.png" background-size="contain" transition="fade" transition-speed="fast"}
 
 [^cholera1]
 
 [^cholera1]: Ambrus, Attila, Erica Field, and Robert Gonzalez. 2020. "Loss in the Time of Cholera: Long-Run Impact of a Disease Epidemic on the Urban Landscape." American Economic Review, 110 (2): 475–525. <https://doi.org/10.1257/aer.20190759>
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-53.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-53.png" background-size="contain" transition="fade" transition-speed="fast"}
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-54.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-54.png" background-size="contain" transition="fade" transition-speed="fast"}
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-55.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-55.png" background-size="contain" transition="fade" transition-speed="fast"}
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-56.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-56.png" background-size="contain" transition="fade" transition-speed="fast"}
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-57.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-57.png" background-size="contain" transition="fade" transition-speed="fast"}
 
 [^cholera2]
 
 [^cholera2]: Ambrus, Attila, Field, Erica, and Gonzalez, Robert. Data and Code for: Loss in the Time of Cholera: Long-run Impact of a Disease Epidemic on the Urban Landscape. Nashville, TN: American Economic Association [publisher], 2020. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2020-01-31. <https://doi.org/10.3886/E111523V2>
 
-## {background-image="images/Vilhuber-Presentation2020-2020-03-20-58.png" background-size="contain"}
+## {background-image="images/Vilhuber-Presentation2020-2020-03-20-58.png" background-size="contain"  transition="fade" transition-speed="fast"}
 
 
 # Reproducibility in Economics and beyond
 
-## Data Editors {background-image="images/socsci-webpage.png" background-size="contain"}
+## {background-image="images/socsci-webpage.png" background-size="contain"}
 
 ## Data Editors {.smaller}
 

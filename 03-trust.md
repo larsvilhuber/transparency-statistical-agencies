@@ -124,7 +124,7 @@ and assess its performance and progress."
 
 ::::
 
-## Computational Reproducibility and Official Statistics
+## Computational Reproducibility and Official Statistics {transition="fade" transition-speed="fast"}
 
 ::::{.columns}
 
@@ -145,7 +145,7 @@ Agencies do provide **detailed information on sources**
 
 ::::
 
-## Computational Reproducibility and Official Statistics
+## Computational Reproducibility and Official Statistics {transition="fade" transition-speed="fast"}
 
 ::::{.columns}
 
@@ -166,7 +166,7 @@ But: **Availability of "computing instructions"**?
 
 ::::
 
-## Computational Reproducibility and Official Statistics
+## Computational Reproducibility and Official Statistics {transition="fade" transition-speed="fast"}
 
 ::::{.columns}
 
@@ -174,8 +174,8 @@ But: **Availability of "computing instructions"**?
 
 But: Availability of **reliable, trusted data archives**
 
-- Of released data – for audience 1 & 2 – ability to reproduce downstream uses
-- Of source data – for audience 2 – ability to reproduce released data
+- Of released data –  ability to reproduce downstream uses
+- Of source data –  ability to reproduce released data
 
 :::
 
@@ -243,7 +243,9 @@ To make it **findable**,
 
 ![](images/force11-dc-logo.jpg)
 
-Data Citation Synthesis Group: Joint Declaration of Data Citation
+[^dc]
+
+[^dc]:  Data Citation Synthesis Group: Joint Declaration of Data Citation
 Principles. Martone M. (ed.) San Diego CA: FORCE11; 2014
 <https://www.force11.org/group/joint-declaration-data-citation-principles-final>
 

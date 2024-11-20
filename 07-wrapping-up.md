@@ -23,11 +23,11 @@
 
 - May want to provide greater transparency into the **production process**.
 - May need to do more for **long-term, unbiased preservation** of input data, output products, and code/software to link the two.
-- May want to start with the low-hanging fruit: dashboards and fully public processes.
+- May want to start with the low-hanging fruit: *dashboards and fully public processes*.
 
 ## Coherence with stated principles
 
-The emerging consensus is fully in line with the decades-strong principles of statistical agencies:
+The emerging consensus is fully in line with the **decades-strong principles** of statistical agencies:
 
 ## Greater trust by the public?
 

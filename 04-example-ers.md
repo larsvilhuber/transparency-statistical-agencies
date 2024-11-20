@@ -26,9 +26,9 @@
 
 ## Own citation?
 
-![Own citation does not even include a URL](images/ers-rugged-citation.png)
+![Own citation does not include a URL](images/ers-rugged-citation.png)
 
-## Findability?
+## Findability? {.smaller}
 
 ::::{.columns}
 
