@@ -108,7 +108,7 @@ jobs:
     - name: Move stuff
       run: |
           ls -lR
-          mv artifact-presentation website/presentation
+          mv artifact-presentation website
           mv artifact-presentation-pdf/presentation*.pdf website/
     # Prepare the GitHub Pages action
     - name: prepare GitHub Pages action
