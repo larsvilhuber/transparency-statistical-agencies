@@ -3,7 +3,7 @@
 ## What is the state of reproducibility and transparency in academic economics?
 
 - An increasing number of journals are not just **requiring** complete data, code, and transparent description, but also **verifying** that the code and data are correct.
-- At the AEA: since 2019, reviewed around **1700** articles, ran code for about **2/3** of them.
+- At the AEA: since 2019, reviewed around **3000** articles, ran code for about **2/3** of them.
 
 ## What are the benefits of reproducibility and transparency?
 
@@ -32,3 +32,4 @@ The emerging consensus is fully in line with the **decades-strong principles** o
 ## Greater trust by the public?
 
 - **Transparency** should be correlated with greater trust in the work of the statistical agencies
+- But: Transparency can also lead to vulnerability through misinterpretation (no panacea)

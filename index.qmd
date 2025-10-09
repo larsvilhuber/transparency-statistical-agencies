@@ -2,14 +2,41 @@
 title: "Reproducibility and transparency in academia, and implications for statistical agencies"
 author: 
   - "Lars Vilhuber"
-date: Nov 2024
+date: 9 Oct 2025
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg" 
   data-background-size: "auto 50%"
   data-background-position: "bottom"
 ---
 
+```{r config,include=FALSE}
 
+library(qrcode)
+# The repository name
+
+message(Sys.getenv("GITHUB_REPOSITORY"))
+
+# Process the repository name to generate the URL
+# - split the two components
+# - combine them into a URL with 'github.io' in the middle
+
+SUBDIRECTORY <- "" # Leave this empty if this file is in the main directory of the repository
+
+GITHUB_REPOSITORY <- Sys.getenv("GITHUB_REPOSITORY")
+GITHUB_REPOSITORY_PARTS <- strsplit(GITHUB_REPOSITORY, "/")[[1]]
+REPOSITORY_URL <- paste0("https://github.com/", GITHUB_REPOSITORY)
+
+WEBSITE_URL <- paste0("https://", GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSITORY_PARTS[2], "/", SUBDIRECTORY)
+WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSITORY_PARTS[2], "/", SUBDIRECTORY)
+
+```
+
+
+```{r, child=c(here::here('00-qrcode.md'))}
+```
+
+```{r follow, child=c(here::here('00-follow-along.md'))}
+```
 
 ```{r, child=c(here::here('00-disclaimer.md'))}
 ```
@@ -27,6 +54,9 @@ title-slide-attributes:
 ```{r, child=c(here::here('04-example-ers.md'))}
 ```
 
+
+```{r, child=c(here::here('05-example-survey.md'))}
+```
 
 ```{r, child=c(here::here('07-wrapping-up.md'))} 
 ```
