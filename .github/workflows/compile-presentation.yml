@@ -110,6 +110,11 @@ jobs:
           ls -lR
           mv artifact-presentation website
           mv artifact-presentation-pdf/presentation*.pdf website/
+          # zip up the website folder, and name it after the repository
+          cd website
+          repo_name=$(basename "{{ github.repository }}")
+          zip -r ../${repo_name}.zip *
+
     # Prepare the GitHub Pages action
     - name: prepare GitHub Pages action
       uses: actions/upload-pages-artifact@v3.0.1    

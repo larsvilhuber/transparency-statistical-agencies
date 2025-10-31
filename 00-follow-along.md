@@ -19,4 +19,4 @@
 
 ::::
 
-[`r WEBSITE_SHORT`](`r WEBSITE_URL`) ([PDF](presentation-en.pdf))
+[`r WEBSITE_SHORT`](`r WEBSITE_URL`) ([HTML zipped](`r GITHUB_REPOSITORY_PARTS[2]`.zip), [PDF](presentation-en.pdf))
