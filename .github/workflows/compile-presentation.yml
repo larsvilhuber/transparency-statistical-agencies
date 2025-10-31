@@ -114,6 +114,7 @@ jobs:
           cd website
           repo_name=$(basename "$GITHUB_REPOSITORY")
           zip -r ../${repo_name}.zip *
+          mv ../${repo_name}.zip .
 
     # Prepare the GitHub Pages action
     - name: prepare GitHub Pages action
